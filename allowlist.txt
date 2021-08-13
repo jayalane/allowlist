@@ -40,5 +40,6 @@ askubuntu.com
 proxy.golang.org
 sum.golang.org
 imgflip.com
+i.imgflip.com
 .googlevideo.com
 
