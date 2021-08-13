@@ -37,3 +37,4 @@ pbs.twimg.com
 www.micronanoflows.ac.uk
 www.youtube.com
 askubuntu.com
+proxy.golang.org
