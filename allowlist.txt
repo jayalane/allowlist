@@ -33,4 +33,6 @@ abs.twimg.com
 abs-0.twimg.com
 pbs.twimg.com
 .stackexchange.com
-.archive.org
+.arxiv.org
+www.micronanoflows.ac.uk
+www.youtube.com
